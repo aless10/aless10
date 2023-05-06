@@ -15,7 +15,15 @@ I'd like to learn/work with a different programming language every year (I playe
 - Open Source: I contributed to a bunch of great project and I learn a lot by doing it
   - [requests](https://github.com/psf/requests): fix failing doctests
   - [pytest](https://github.com/pytest-dev/pytest): fix a bug that enables the usage of the walrus operator in assertions
-  Plus, I participate to the [Open Source Saturday](https://github.com/oss-italy) whenever I can
+  
+  Plus, I participate to the [Open Source Saturday](https://github.com/oss-italy) whenever I can ![Open Source Saturday Italy](https://img.shields.io/badge/Open%20Source%20Saturday-Italy-red)]
+- UX/UI
+
+#### Personal Projects
+
+During my spare time, I like working on new things. Here is a list of personal projects that I hope, one day, could be useful for somebody
+
+- Todo App => https://todo-app-omega-five.vercel.app/ (React, Typescript. Hosted on vercel)
 
 <!--
 **aless10/aless10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
