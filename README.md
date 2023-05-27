@@ -16,8 +16,12 @@ I'd like to learn/work with a different programming language every year (I playe
   - [requests](https://github.com/psf/requests): fix failing doctests
   - [pytest](https://github.com/pytest-dev/pytest): fix a bug that enables the usage of the walrus operator in assertions
   
-  Plus, I participate to the [Open Source Saturday](https://github.com/oss-italy) whenever I can ![Open Source Saturday Italy](https://img.shields.io/badge/Open%20Source%20Saturday-Italy-red)]
+  Plus, I participate to the [Open Source Saturday](https://github.com/oss-italy) whenever I can ![Open Source Saturday Italy](https://img.shields.io/badge/Open%20Source%20Saturday-Italy-red)
 - UX/UI
+
+#### Learning
+
+🌱 I’m currently learning how to write [neovim](https://neovim.io/) plugins with lua or whatever
 
 #### Personal Projects
 
