@@ -29,6 +29,8 @@ During my spare time, I like working on new things. Here is a list of personal p
 
 - Todo App => https://todo-app-omega-five.vercel.app/ (React, Typescript. Hosted on vercel)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aless10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **aless10/aless10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
